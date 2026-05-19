@@ -101,15 +101,3 @@ Push and create a pull request
 ## 📄 License
 
 MIT License
-
----
-
-## 👨‍💻 Author
-
-Developed by Arshid Ahmad Malik
-
----
-
-## ⭐ Support
-
-If you find this project useful, give it a star
